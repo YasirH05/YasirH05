@@ -50,17 +50,10 @@ https://github.com/YasirH05/railcompass
 
 ---
 
-## CareerIQ
-AI-powered career recommendation platform using psychometric assessments.
-Repository:
-https://github.com/YasirH05/YOUR_CAREERIQ_REPO
-
----
-
 ## Sentiment Analysis
 Machine Learning based product review sentiment classifier.
 Repository:
-https://github.com/YasirH05/YOUR_SENTIMENT_REPO
+https://github.com/YasirH05/sentiment-analysis-nlp
 
 ---
 
