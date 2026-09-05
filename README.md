@@ -37,7 +37,7 @@ Recommendations are generated using multiple factors including:
 React • Node.js • Express.js • MongoDB
 
 ### Repository
-https://github.com/YasirH05/railcompass
+https://github.com/YasirH05/rail-compass
 
 ---
 
