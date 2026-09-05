@@ -46,7 +46,7 @@ https://github.com/YasirH05/rail-compass
 ## Rail Compass
 Smart train recommendation platform for Indian Railways.
 Repository:
-https://github.com/YasirH05/railcompass
+https://github.com/YasirH05/rail-compass
 
 ---
 
